@@ -127,6 +127,7 @@ small{
     padding-bottom: 20px;
 }
 
+
 form{
     padding-top: 20px;
 }
@@ -140,3 +141,31 @@ form{
     margin-left: 350px;
     margin-right: 350px;
 }
+
+.class-footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(12, 2, 2);
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+#f-heading{
+    color: aliceblue;
+}
+.padding-container{
+    padding-bottom: 60px;
+    margin-bottom: 70px;
+}
+
+#text-div{
+    text-align: center;
+    padding-top: 100px;
+}
+
+#img-tag{
+    height: 300px;
+    width: 600px;
+}
+
