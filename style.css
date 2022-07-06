@@ -16,16 +16,72 @@ body{
     padding: 130px;
 }
 .header-color{
-    color: rgba(250, 245, 245, 0.918);
+    color: rgba(243, 38, 38, 0.918);
+    font-size: large;
 }
 .header-size{
-    font-size: 50px;
+    font-size: 70px;
+    color: rgb(253, 254, 254);
+}
+
+#second-header{
+    font-size: 40px;
+}
+small{
+    padding-bottom: 25px;
+    color: rgba(243, 38, 38, 0.918);
+}
+
+.button{
+    background-color: crimson;
+    text-decoration: none;
+    color: rgb(1, 1, 13);
+    padding: 10px 40px;
+    font-weight: 400;
+    font-weight: bold;
+    border-radius: 6px;
+    size: 120px;
+    text-align: center;
     color: aliceblue;
 }
 
+
 .flexible-container{
     display: flex;
-    padding: 16px;
-    
+    margin-bottom: 30px;
+    padding-top: 15px;
+   
+}
+
+.box-shadow{
+        box-shadow: 5px 5px 5px gray;
+        width: 20%;
+        box-shadow: 5px;
+        border: 2px;
+        border-radius: 5px;
+        padding: 5px;
+        text-align: center;
+        margin: 10px;
+}
+
+#second-section{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+#marking-amount{
+    background-color: coral;
+    border-color: brown;
+    width: 20%;
+    box-shadow: 5px 5px 5px gray;
+    border: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+
 }
 
