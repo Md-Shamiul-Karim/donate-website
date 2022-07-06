@@ -85,3 +85,34 @@ small{
 
 }
 
+
+#third-section{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+
+#second-box-shadow{
+    border: 5px ;
+    border-radius: 5px;
+    background-color: bisque;
+    margin: 10px;
+}
+
+#third-box-shadow{
+    border: 5px ;
+    border-radius: 5px;
+    background-color: aqua;
+    margin: 10px;
+}
+
+#fourth-box-shadow{
+    border: 5px ;
+    border-radius: 5px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+
