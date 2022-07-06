@@ -1,3 +1,31 @@
 body{
-    color: brown;
+    font-family: 'Arima', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
+.first-section{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+}
+#first-div{
+    text-align: center;
+    padding: 130px;
+}
+.header-color{
+    color: rgba(250, 245, 245, 0.918);
+}
+.header-size{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.flexible-container{
+    display: flex;
+    padding: 16px;
+    
+}
+
