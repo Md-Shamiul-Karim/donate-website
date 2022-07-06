@@ -116,3 +116,27 @@ small{
     margin: 10px;
 }
 
+.img{
+    padding-right: 130px;
+    padding-top: 5px;
+}
+
+
+#optional-section-one{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+form{
+    padding-top: 20px;
+}
+#suscribe{
+    background-color: rgb(254, 86, 86);
+    font-size: 15px;
+}
+#form-div{
+    background-color: antiquewhite;
+    padding: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
